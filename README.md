@@ -14,4 +14,4 @@ Utilice slugit() para generar automáticamente el slug mientras el usuario escri
 
 $('#slug').slugit('#title');
 
-[Slugit](https://estebanrfp.github.io/slugit)
+[Slugit](https://estebanrfp.github.io/jQuery-Slugit-Plugin)
