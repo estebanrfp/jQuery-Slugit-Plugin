@@ -4,7 +4,7 @@ Plugin que genera el SLUG automáticamente mientras se escribe un título ( jQue
 
 Ejemplo:
 
-<label for="title">"Test My Slug"</label>
+<label for="title">"Test My Automatic Slug"</label>
 <input type="text" name="title" id="title">
 
 <label for="slug">Generador de Slug, "test-my-slug"</label>
