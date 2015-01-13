@@ -14,4 +14,6 @@ Utilice slugit() para generar automáticamente el slug mientras el usuario escri
 
 $('#slug').slugit('#title');
 
+Ejemplo autoreferente en gh-pages
+
 [Slugit](https://estebanrfp.github.io/jQuery-Slugit-Plugin)
